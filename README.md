@@ -1,7 +1,7 @@
 # JetBrains Academy Java Course Template
 
 [![official project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-[![Gradle Build](https://github.com/khammami/java-course-template/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/khammami/java-course-template/actions/workflows/gradle-build.yml)
+[![Gradle Build](https://github.com/khammami/test-java-course-template/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/khammami/test-java-course-template/actions/workflows/gradle-build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Note**
